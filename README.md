@@ -10,7 +10,7 @@
 <br>
 
 ## Sobre
-Aplicativo de consulta de protocolos experimentais destinado a pesquisa cientifica.
+Aplicativo desenvolvido em Flutter para consulta de protocolos experimentais destinado a pesquisa cientifica.
 <br>
 <br>
 <br>
