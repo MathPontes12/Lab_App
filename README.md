@@ -5,5 +5,6 @@
 
 ## Tecnologias
 <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" width="40" height="40"/>      
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" width="100" height="100"/>     
+      
 </div>
